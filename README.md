@@ -2,13 +2,15 @@
 
 
 This repository provides a bootstrap version of my original portfolio. 
-A link to my page
+The link to my repository:
+
+https://github.com/SadeJoseph/BootstrapPortfolio
 
 ##Installation 
 N/A
 
 ##Usage
-Portolio gives you the ability to showcase your work
+Portolio gives you the ability to showcase your work 
 
 ##Credits 
 N/A
