@@ -44,3 +44,13 @@ h1, h2, h3 , h4, h5, h6 {
     text-align: center;
   }
 
+  .card {
+    margin: 0 auto;
+  }
+
+  .card-title {
+    color: #c9b30d;
+    text-transform: uppercase;
+  }
+
+  
